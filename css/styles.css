@@ -1,9 +1,26 @@
 h1{
   font-weight: bold;
-  font-family: 'Germania One', cursive;
+  font-family: 'Press Start 2P', cursive;
   text-align: center;
 }
 
+p{
+  font-weight: bold;
+  font-family: 'Cutive Mono', monospace;
+  text-align: center;
+  font-size: 20.3px;
+}
+
+h2{
+  font-weight: bold;
+  font-family: 'Faster One', cursive;
+  text-align: left;
+  font-size: 50px;
+}
+
+.contact{
+  text-align: right;
+}
 
 p.lead{
   font-weight: bold;
@@ -11,8 +28,19 @@ p.lead{
   text-align: center;
 }
 
+p.project{
+  text-align: left;
+  font-weight: bold;
+}
+
 img {
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 40%;
   float: left;
+}
+
+body  {
+  background-image: url("https://img.bhs4.com/c7/0/c7063dfee8b7e80b5cf8d7fc761259ece8d2804c_large.jpg");
+  background-color: #cccccc;
+  background-size: cover;
 }
