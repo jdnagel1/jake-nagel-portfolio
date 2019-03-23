@@ -12,7 +12,6 @@ This is a portfolio webpage I created using HTML and CSS, which will later act a
 
 * _Open hyperlink_
 * _Site includes homepage, projects page, and contact link to email_
-* _in a simple_
 
 ## Known Bugs
 
